@@ -54,7 +54,7 @@ cd cxdb
 cargo build --release
 
 # Run the server
-./target/release/ai-cxdb-store
+./target/release/cxdb-server
 
 # Build the gateway (optional - for OAuth and frontend serving)
 cd gateway
